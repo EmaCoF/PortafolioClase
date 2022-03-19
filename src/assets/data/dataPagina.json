@@ -1,0 +1,15 @@
+{
+    "titulo": "Juan",
+    "email": "Juan2@gmail.com",
+    "nombre_corto": "Ju",
+    "pagina_autor": "https://me-juan.com",
+    "facebook": "https://www.facebook.com/",
+    "twitter": "https://twitter.com/?lang=es",
+    "instagram": "https://www.instagram.com/?hl=es-la",
+    "snapchat": "https://accounts.snapchat.com/accounts/login?continue=%2Faccounts%2Fwelcome",
+    "equipo_trabajo": [
+        { "nombre": "Miguel", "apellido": "Castillo", "Correo": "Migue@pinulito.com", "edad": 30, "Sexo": "M" },
+        { "nombre": "Lucia", "apellido": "Bonita", "Correo": "Lucy2000@musculosos.mx", "edad": 20, "Sexo": "F" },
+        { "nombre": "Pepe", "apellido": "Monroy", "Correo": "ElPepe@corruptos.com", "edad": 65, "Sexo": "M" }
+    ]
+}
